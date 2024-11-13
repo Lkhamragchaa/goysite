@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+.btn1
+{
+  position: absolute;
+  left: 25%;
+  top: 50%;
+ background-color: black;
+  border: none;
+  color: white;
+  font-size: larger;
+  font-style: italic;
+  font-weight: 100;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  border-color: white;
+  border-width: 10px;
+=======
+.D{
+    background-color: #4B0082;
+    color: white;
+    border: none;
+    display: inline-block;
+    position: absolute;
+    right: 25%;
+    top: 50%;
+    cursor: pointer;
+    
+>>>>>>> dcaa2488ae89688cc1a3a9c3c8a2e58f0cd9198b
+}
